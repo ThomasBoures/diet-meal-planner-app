@@ -1,0 +1,10 @@
+﻿node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+android/
+ios/
+.vscode/
+.DS_Store
+Thumbs.db
