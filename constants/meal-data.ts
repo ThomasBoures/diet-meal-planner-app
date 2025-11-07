@@ -262,7 +262,6 @@ export function isOptionCompatible(option: MealOption, preference: DietaryPrefer
   if (preference === 'pescatarian') {
     return (
       option.dietaryTags.includes('pescatarian') ||
-      option.dietaryTags.includes('balanced') ||
       option.dietaryTags.includes('vegetarian') ||
       option.dietaryTags.includes('vegan')
     );
