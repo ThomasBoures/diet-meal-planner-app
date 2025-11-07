@@ -1,0 +1,91 @@
+{
+  "tabs": {
+    "home": "Accueil",
+    "planner": "Planificateur",
+    "foods": "Aliments",
+    "profile": "Profil"
+  },
+  "onboarding": {
+    "welcome_title": "Bienvenue dans Diet Planner",
+    "welcome_subtitle": "Personnalisez vos repas pour atteindre vos objectifs.",
+    "start": "Commencer",
+    "profile_title": "Votre profil",
+    "goals_title": "Objectifs et activité",
+    "summary_title": "Résumé",
+    "complete": "Terminer",
+    "name": "Nom",
+    "sex": "Sexe",
+    "age": "Âge",
+    "height": "Taille",
+    "weight": "Poids",
+    "activity": "Niveau d'activité",
+    "goal": "Objectif",
+    "preferences": "Préférences",
+    "allergens": "Allergènes",
+    "sex_options": {
+      "male": "Homme",
+      "female": "Femme",
+      "other": "Autre"
+    },
+    "goal_options": {
+      "lose_weight": "Perdre du poids",
+      "maintain": "Maintenir"
+    },
+    "activity_options": {
+      "sedentary": "Sédentaire",
+      "light": "Actif léger",
+      "moderate": "Actif modéré",
+      "high": "Actif élevé",
+      "very_high": "Très actif"
+    }
+  },
+  "home": {
+    "bmi": "Indice de masse corporelle",
+    "bmr": "Métabolisme basal",
+    "tdee": "Dépense journalière",
+    "target": "Objectif calorique",
+    "plan_cta": "Planifier mes repas",
+    "weekly_progress": "Progression hebdo"
+  },
+  "planner": {
+    "title": "Plan du jour",
+    "select_count": "Sélectionné {{count}}/4",
+    "finalize": "Finaliser mon plan",
+    "empty": "Complétez votre profil pour générer un plan.",
+    "daily_target": "Objectif journalier",
+    "selected_plan": "Plan sélectionné",
+    "share": "Partager",
+    "new_plan": "Nouveau plan"
+  },
+  "foods": {
+    "search": "Rechercher un aliment",
+    "add": "Ajouter un aliment",
+    "empty": "Aucun résultat"
+  },
+  "profile": {
+    "title": "Mon profil",
+    "save": "Enregistrer",
+    "reset": "Réinitialiser",
+    "language": "Langue",
+    "theme": "Thème",
+    "meal_split": "Répartition des repas",
+    "macro_split": "Répartition des macros",
+    "metrics": {
+      "bmi": "BMI",
+      "bmr": "BMR",
+      "tdee": "TDEE",
+      "target": "Objectif"
+    }
+  },
+  "settings": {
+    "language": {
+      "fr": "Français",
+      "en": "Anglais"
+    },
+    "theme": {
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    }
+  }
+}

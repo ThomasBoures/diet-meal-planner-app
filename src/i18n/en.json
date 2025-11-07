@@ -1,0 +1,91 @@
+{
+  "tabs": {
+    "home": "Home",
+    "planner": "Planner",
+    "foods": "Foods",
+    "profile": "Profile"
+  },
+  "onboarding": {
+    "welcome_title": "Welcome to Diet Planner",
+    "welcome_subtitle": "Build daily menus tailored to your goals.",
+    "start": "Get started",
+    "profile_title": "Your profile",
+    "goals_title": "Goals & activity",
+    "summary_title": "Summary",
+    "complete": "Finish",
+    "name": "Name",
+    "sex": "Sex",
+    "age": "Age",
+    "height": "Height",
+    "weight": "Weight",
+    "activity": "Activity level",
+    "goal": "Goal",
+    "preferences": "Preferences",
+    "allergens": "Allergens",
+    "sex_options": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "goal_options": {
+      "lose_weight": "Lose weight",
+      "maintain": "Maintain"
+    },
+    "activity_options": {
+      "sedentary": "Sedentary",
+      "light": "Lightly active",
+      "moderate": "Moderately active",
+      "high": "Very active",
+      "very_high": "Extremely active"
+    }
+  },
+  "home": {
+    "bmi": "Body Mass Index",
+    "bmr": "Basal Metabolic Rate",
+    "tdee": "Daily energy expenditure",
+    "target": "Calorie target",
+    "plan_cta": "Plan my meals",
+    "weekly_progress": "Weekly progress"
+  },
+  "planner": {
+    "title": "Day plan",
+    "select_count": "Selected {{count}}/4",
+    "finalize": "Finalize my plan",
+    "empty": "Complete your profile to generate a plan.",
+    "daily_target": "Daily target",
+    "selected_plan": "Selected plan",
+    "share": "Share",
+    "new_plan": "New plan"
+  },
+  "foods": {
+    "search": "Search foods",
+    "add": "Add food",
+    "empty": "No result"
+  },
+  "profile": {
+    "title": "My profile",
+    "save": "Save",
+    "reset": "Reset",
+    "language": "Language",
+    "theme": "Theme",
+    "meal_split": "Meal split",
+    "macro_split": "Macro split",
+    "metrics": {
+      "bmi": "BMI",
+      "bmr": "BMR",
+      "tdee": "TDEE",
+      "target": "Target"
+    }
+  },
+  "settings": {
+    "language": {
+      "fr": "French",
+      "en": "English"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  }
+}
