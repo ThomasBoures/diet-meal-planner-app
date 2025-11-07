@@ -13,3 +13,5 @@ package-lock.json
 coverage
 .DS_Store
 expo.dev
+# Legacy Expo Router directory replaced by src/navigation
+app/
